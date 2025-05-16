@@ -27,10 +27,6 @@ IR sensors detect when you blink your healthy eye → Signal processed by microc
 - 📈 Patient progress tracking
 - 🌐 Remote monitoring for doctors
 - 📱 Mobile app integration
-
-## 📧 Contact
-[your-email@example.com]
-
 ---
 
-© 2025 Optivio Medical Technologies 🔬
+© 2025 Optivio 
